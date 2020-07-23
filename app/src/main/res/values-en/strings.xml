@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidAppInicial</string>
+    <string name="text_Bienvenida">Welcome</string>
+    <string name="text_bt_Entrar">Enter</string>
+</resources>
